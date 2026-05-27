@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderpelete",
+        "uuid": 4795484,
+        "checksum": "j40tg6"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
